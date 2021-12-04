@@ -1,0 +1,13 @@
+pagefactoryPages/PfShopingcartPage.class
+pages/CategoryPageChk.class
+pagefactoryPages/PfCheckoutPage.class
+pages/LoginPageChk.class
+pagefactoryPages/PfOrderConfirmationPage.class
+org/FirstMavenProj/App.class
+pages/ProductPageChk.class
+Checkoutflowpages/CheckoutPage.class
+pagefactoryPages/PfPaymentPage.class
+pagefactoryPages/PfProductPage.class
+Checkoutflowpages/ProductWebPage.class
+Checkoutflowpages/LoginWebPage.class
+pagefactoryPages/PFLoginPage.class
